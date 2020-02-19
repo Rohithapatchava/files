@@ -1,0 +1,7 @@
+D:\Rohitha\c sharp\files\files\bin\Debug\files.exe.config
+D:\Rohitha\c sharp\files\files\bin\Debug\files.exe
+D:\Rohitha\c sharp\files\files\bin\Debug\files.pdb
+D:\Rohitha\c sharp\files\files\obj\Debug\files.csprojResolveAssemblyReference.cache
+D:\Rohitha\c sharp\files\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+D:\Rohitha\c sharp\files\files\obj\Debug\files.exe
+D:\Rohitha\c sharp\files\files\obj\Debug\files.pdb
